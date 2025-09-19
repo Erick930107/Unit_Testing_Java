@@ -7,6 +7,15 @@
 * 套件：
   * JUnit 5
 
+## 專案結構
+~~~
+Unit_Testing_Java/
+ ├─ QuickSort.java    # 受測程式碼
+ ├─ QuickSort_bug.java    # 受測程式碼(bug版本，用以顯示單元測試偵錯能力)
+ ├─ Test_QS.java    # 測試程式碼
+ └─ README.md         
+~~~
+
 ## 執行方式
 1. 安裝JUnit
 
